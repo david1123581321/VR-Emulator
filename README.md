@@ -1,10 +1,12 @@
-###CONTROLS:
+**CONTROLS:**
 
 Q/E - Y/B (Ability)
 
 X/C - X/A (Dash)
 
 R/G - Left/Right Grip (Grab)
+
+T - Clump hands together (Toggle)
 
 LMB/RMB - Left/Right Trigger (Attack)
 
