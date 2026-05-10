@@ -1,3 +1,5 @@
+Unfortunately, hand momentum is not tracked by the game. This means that jacket flying and kobold weapon switching doesn't work as intended. I plan to fix this soon.
+
 **CONTROLS:**
 
 Q/E - Y/B (Ability)
